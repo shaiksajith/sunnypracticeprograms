@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50" started-at="2020-12-12T13:44:27 IST" finished-at="2020-12-12T13:44:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50" started-at="2020-12-12T13:44:27 IST" finished-at="2020-12-12T13:44:27 IST">
+      <class name="com.Testtestng.TC_sun_3">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Testtestng.TC_sun_3@4e7dc304]" name="beforeSuite" is-config="true" duration-ms="9" started-at="2020-12-12T13:44:27 IST" finished-at="2020-12-12T13:44:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="chechUp3()[pri:0, instance:com.Testtestng.TC_sun_3@4e7dc304]" name="chechUp3" duration-ms="11" started-at="2020-12-12T13:44:27 IST" finished-at="2020-12-12T13:44:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chechUp3 -->
+      </class> <!-- com.Testtestng.TC_sun_3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
